@@ -12,8 +12,8 @@ You can click the Preview link to take a look at your changes.
 --->
 - Hie, I'm Jeremiah Taguta.
 
-- I'm interested in Web App Development. Currently, I'm leaning Kotlin.
+- I'm interested in Software Development. Currently, I'm leaning IoT Dev.
 
-- I'm willing to collaborate on Web App Dev especially Back-end development.
+- I'm willing to collaborate on Software Dev especially Back-end development.
 
 - Contact me on tagutaj@gmail.com
