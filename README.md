@@ -16,4 +16,4 @@ You can click the Preview link to take a look at your changes.
 
 - I'm willing to collaborate on Software Dev especially Back-end development.
 
-- Contact me on tagutaj@gmail.com
+- Contact me on https://jeremiahtaguta.com/contact.html
